@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    height: 600px;
+    float: left;
+    background-color: black;
+}
+
+.navbar{
+    width: 100%;
+    height: 150px;
+    float: left;
+    background-color: blue;
+}
+
+.left{
+    width: 10%;
+    height: 150px;
+    float: left;
+    background-color: red;
+
+}
+
+.right{
+    width: 90%;
+    height: 150px;
+    float: left;
+    background-color: blueviolet;
+}
+
+.ule{
+    float: left;
+    width: 40%;
+    height: 150px;
+    background-color: aqua;
+}
+
+.ule li{
+    float: left;
+    list-style-type: none;
+
+}
+
+
